@@ -32,5 +32,8 @@ An integrated toolkit platform for audio and video processing,cover the needs of
   - 一键自动化发布海内外主流平台
   - 其他
 
+示意图:
+![image](https://github.com/user-attachments/assets/c59debde-1973-4f6f-99ff-744a545e9a5b)
+
 交流社群参与讨论,或成为工具集开发者:
 ![191ae5d06382f8b0cddbab5e90f371b](https://github.com/user-attachments/assets/4fd72612-ac2c-47e3-bf24-e90ead30c035)
